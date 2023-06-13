@@ -96,7 +96,7 @@ _1XX Informational_
 
 -----------------------------------------------------------------------------------------------------------------------------------
 | Status Code |    Reason Phrase     |                                      Description                                           |
-|---------------------------------------------------------------------------------------------------------------------------------|
+|-------------|----------------------|--------------------------------------------------------------------------------------------|
 |     100     |      Continue        | The server received the request headers and should continue to send the request body.      |
 |     100     |  Switching Protocols | The client has requested the server to switch protocols and the server has agreed to do so |
 -----------------------------------------------------------------------------------------------------------------------------------
@@ -105,7 +105,7 @@ _2XX Successful_
 
 -----------------------------------------------------------------------------------------------------------------------------------
 | Status Code |  Reason Phrase  |                                      Description                                                |
-|---------------------------------------------------------------------------------------------------------------------------------|
+|-------------|-----------------|-------------------------------------------------------------------------------------------------|
 |     200     |       ok        | Standard response returned by the server to indicate it successfully processed the request.     |
 |     201     |   Created       | The server successfully processed the request and a resource was created.                       |
 |     202     |   Accepted      | The server accepted the request for processing but the processing has not yet been completed.   |
@@ -123,16 +123,14 @@ _3XX Redirection_
 
 _4XX Client Error_
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-| Status Code |  Reason Phrase  |                                      Description                                                                           |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     400     |   Bad Request      | The server cannot process the request due to a client error, e.g., invalid request or transmitted data is too large.    |
-|     401     |    Unauthorized    | The client making the request is unauthorized and should authenticate.                                                  |
-|     403     |     Forbidden      | The request was valid but the server is refusing to process it. This is usually returned due to the client having 
-insufficient permissions for the website, e.g., requesting an administrator action but the user is not an administrator.                                     |
-|     404     |     Not Found      | The server did not find the requested resource.                                                                         |
-|     405     | Method Not Allowed | The web server does not support the HTTP method used.                                                                   |
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Status Code | Reason Phrase       | Description                                                                                                           |
+|-------------|---------------------|-----------------------------------------------------------------------------------------------------------------------|
+| 400         | Bad Request         | The server cannot process the request due to a client error, e.g., invalid request or transmitted data is too large. |
+| 401         | Unauthorized        | The client making the request is unauthorized and should authenticate.                                                |
+| 403         | Forbidden           | The request was valid, but the server is refusing to process it. This is usually returned due to the client having insufficient permissions for the website, e.g., requesting an administrator action but the user is not an administrator. |
+| 404         | Not Found           | The server did not find the requested resource.                                                                       |
+| 405         | Method Not Allowed  | The web server does not support the HTTP method used.                                                                 |
+
 
 
 _5XX Server Error_
