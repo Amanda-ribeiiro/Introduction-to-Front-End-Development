@@ -3,12 +3,21 @@
 Este curso é o primeiro de uma série que visa ajudá-lo a aprender mais sobre desenvolvimento web e prepara você para usar o Bootstrap em uma página biográfica que você criará. Ao final deste curso, você será capaz de: 
 
 <ol>
+<<<<<<< HEAD
     <li>Descrever a função de desenvolvedor front-end</li>
     <li>Explicar as principais e as tecnologias subjacentes que alimentam a Internet</li>
     <li>Usar HTML para criar uma página da Web simples</li>
     <li>Usar CSS para controlar a aparência de uma página da Web simples</li>
     <li>Explicar o que é o React</li>
     <li>Descrever os aplicativos e as características das estruturas de interface do usuário mais populares</li>    
+=======
+    <li> · Descrever a função de desenvolvedor front-end</li>
+    <li> · Explicar as principais e as tecnologias subjacentes que alimentam a Internet</li>
+    <li> · Usar HTML para criar uma página da Web simples</li>
+    <li> · Usar CSS para controlar a aparência de uma página da Web simples</li>
+    <li> · Explicar o que é o React</li>
+    <li> · Descrever os aplicativos e as características das estruturas de interface do usuário mais populares</li>    
+>>>>>>> 1edf8ec5cc0b85a2052f2e19275f6f3f21d6ce2b
 </ol>
 
 ## Módulo 1: Introdução ao desenvolvimento web 
