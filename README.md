@@ -1,65 +1,65 @@
-# Ementa do Curso de Introdução ao Desenvolvimento Front-End
+[![Português](https://img.shields.io/badge/Idioma-Portugu%C3%AAs-green)](README.pt.md)
+[![English](https://img.shields.io/badge/Language-English-green)](README.md)
 
-Este curso é o primeiro de uma série que visa ajudá-lo a aprender mais sobre desenvolvimento web e prepara você para usar o Bootstrap em uma página biográfica que você criará. Ao final deste curso, você será capaz de: 
+# Introduction to Front-End Development
 
-<ol>
-<<<<<<< HEAD
-    <li>Descrever a função de desenvolvedor front-end</li>
-    <li>Explicar as principais e as tecnologias subjacentes que alimentam a Internet</li>
-    <li>Usar HTML para criar uma página da Web simples</li>
-    <li>Usar CSS para controlar a aparência de uma página da Web simples</li>
-    <li>Explicar o que é o React</li>
-    <li>Descrever os aplicativos e as características das estruturas de interface do usuário mais populares</li>    
-=======
-    <li> · Descrever a função de desenvolvedor front-end</li>
-    <li> · Explicar as principais e as tecnologias subjacentes que alimentam a Internet</li>
-    <li> · Usar HTML para criar uma página da Web simples</li>
-    <li> · Usar CSS para controlar a aparência de uma página da Web simples</li>
-    <li> · Explicar o que é o React</li>
-    <li> · Descrever os aplicativos e as características das estruturas de interface do usuário mais populares</li>    
->>>>>>> 1edf8ec5cc0b85a2052f2e19275f6f3f21d6ce2b
-</ol>
+This course is the first in a series aimed at helping you learn more about web development and preparing you to use Bootstrap in a biographical webpage that you will create. By the end of this course, you will be able to:
 
-## Módulo 1: Introdução ao desenvolvimento web 
+## Roadmap
 
-Neste módulo, você é apresentado ao desenvolvimento web. Você aprenderá sobre os diferentes tipos de funções de desenvolvedor da Web e as responsabilidades dos desenvolvedores front-end, back-end e full-stack. Você terá uma visão geral simplificada das principais tecnologias de HTML, CSS e JavaScript e explorará os conceitos que sustentam como a internet funciona. Além disso, você poderá acessar exercícios práticos para editar um site. 
+- [x] Describe the role of a front-end developer
+- [x] Explain the key technologies underlying the Internet
+- [x] Use HTML to create a simple web page
+- [x] Use CSS to control the appearance of a simple web page
+- [x] Explain what React is
+- [x] Describe the applications and features of the most popular user interface frameworks
+- [x] Describe the role of a front-end developer
+- [x] Explain the key technologies underlying the Internet
+- [x] Use HTML to create a simple web page
+- [x] Use CSS to control the appearance of a simple web page
+- [x] Explain what React is
+- [x] Describe the applications and features of the most popular user interface frameworks
 
-- Descreva a função de trabalho de desenvolvedor da Web. 
+## [Module 1: Introduction to Web Development](https://github.com/Amanda-ribeiiro/Introduction-to-Front-End-Development/tree/main/Week-One)
 
-- Distinguir entre desenvolvedores front-end, back-end e full-stack.
+- Describe the job role of a web developer.
+- Distinguish between front-end, back-end, and full-stack developers.
+- Explain how data moves across the Internet.
+- Describe the technologies that underpin the Internet.
 
-- Explique como os dados se movem pela internet.
+## [Module 2: Introduction to HTML5 and CSS](https://github.com/Amanda-ribeiiro/Introduction-to-Front-End-Development/tree/main/Week-Two)
 
-- Descreva as tecnologias que sustentam a internet. 
+- Use HTML to create a simple web page.
+- Use CSS to style a simple web page.
 
-## Módulo 2: Introdução ao HTML5 e CSS  
+## [Module 3: User Interface Frameworks](https://github.com/Amanda-ribeiiro/Introduction-to-Front-End-Development/tree/main/Week-Three)
 
-Aqui você aprenderá sobre HTML5 e CSS. Você também examinará como construir documentos HTML e adicionar estilo e layout básicos usando CSS. 
+- Describe the concepts that exist in most user interface frameworks.
+- Use the Bootstrap CSS framework to create web pages.
+- Leverage Bootstrap documentation to reproduce and modify CSS components.
+- Use Bootstrap themes.
 
-- Depois de concluir este módulo, você será capaz de: 
+## [Module 4: Graded Assessment](https://github.com/Amanda-ribeiiro/Introduction-to-Front-End-Development/tree/main/Week%20-Four)
 
-- Use HTML para criar uma página da Web simples.
+- Create and style a biographical page.
 
-- Use CSS para definir o estilo de uma página da Web simples. 
+### Skills 🛠
 
-## Módulo 3: Estruturas de interface do usuário
+- HTML5 and CSS
+- Bootstrap (Framework)
+- Responsive Web Design
+- React Fundamentals
+- Debugging
+- Web Development Tools
+- Front-End Web Development
+- User Interface
 
-Neste módulo, você aprenderá sobre estruturas de interface do usuário. Além disso, você aprenderá a usar o framework Bootstrap para criar interfaces responsivas. Você explorará os benefícios de trabalhar com estruturas de interface do usuário. 
-
-- Descreva os conceitos que existem na maioria das estruturas de interface do usuário.
-
-- Use a estrutura CSS do Bootstrap para criar páginas da Web.
-
-- Aproveite a documentação do Bootstrap para reproduzir e modificar componentes CSS.
-
-- Use temas do Bootstrap. 
-
-- Descreva os fundamentos do React em relação a outros frameworks e tecnologias web.
-
-## Módulo 4: Avaliação Graduada
-
-Aqui você aprenderá sobre a avaliação classificada. Depois de concluir as unidades individuais neste módulo, você sintetizará as habilidades do curso para criar e estilizar uma página biográfica. Você também terá a oportunidade de refletir sobre o conteúdo do curso e o caminho de aprendizagem que está por vir. 
-
-- Depois de concluir este módulo, você será capaz de: 
-
-- Crie e estilize uma página biográfica.
+| Field                   | Value                                                  |
+|-------------------------|--------------------------------------------------------|
+| Certificate of Completion | [Certificate of Completion](https://github.com/Amanda-ribeiiro/Introduction-to-Front-End-Development/blob/main/Certificate%20Introduction%20to%20Front-End%20Developer.pdf) |
+| Name                    | Introduction to Front-End Development                 |
+| Issuing Organization    | Coursera                                               |
+| Issue Date              | June 2023                                              |
+| Expiration Date         | This certification does not expire                     |
+| Credential ID           | 96X9WP8DTXPV                                           |
+| Credential URL          | [https://www.coursera.org/account/accomplishments/certificate/96X9WP8DTXPV](https://www.coursera.org/account/accomplishments/certificate/96X9WP8DTXPV) |
